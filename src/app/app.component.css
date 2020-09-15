@@ -1,0 +1,39 @@
+body,
+html {
+  background-color: #f1f2f6;
+}
+.container {
+  text-align: center;
+  background-color: #f1f2f6;
+}
+.content {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(51, 51, 51);
+}
+
+.Profile {
+  padding: 30px 30px;
+  background-color: white;
+  margin-bottom: 25px;
+}
+
+.profile-image {
+  background-color: white;
+  border-radius: 50%;
+  padding: 20px;
+  text-align: center;
+  height: 40%;
+}
+
+.net-worth {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  margin-bottom: 25px;
+}
+
+.grid-view {
+  background-color: white;
+}
